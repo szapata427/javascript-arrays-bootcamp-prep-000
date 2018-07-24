@@ -47,7 +47,7 @@ return array
 
 function removeElementFromEndOfArray(array) {
   array
-  array.slice(-1)
-  return array
+  return array.slice(-1)
+   
 }
 
